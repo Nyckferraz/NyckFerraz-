@@ -15,4 +15,13 @@ Body {
 video {
    width: 100%;
    border-radius: 4px;
+} 
+.inf {
+   font-siz: 16px;
+   margin: 4px 0;
+   color: #002f6c;
+}
+.inf  p {
+   font-size: 13px;
+   colo: #e0fdf;
 }
